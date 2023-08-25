@@ -1,0 +1,11 @@
+C:\Users\Engin\Desktop\C# DERSLERİ\PasoParolaOyunu\PasoParolaOyunu\bin\Debug\PasoParolaOyunu.exe.config
+C:\Users\Engin\Desktop\C# DERSLERİ\PasoParolaOyunu\PasoParolaOyunu\bin\Debug\PasoParolaOyunu.exe
+C:\Users\Engin\Desktop\C# DERSLERİ\PasoParolaOyunu\PasoParolaOyunu\bin\Debug\PasoParolaOyunu.pdb
+C:\Users\Engin\Desktop\C# DERSLERİ\PasoParolaOyunu\PasoParolaOyunu\obj\Debug\PasoParolaOyunu.csproj.AssemblyReference.cache
+C:\Users\Engin\Desktop\C# DERSLERİ\PasoParolaOyunu\PasoParolaOyunu\obj\Debug\PasoParolaOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Engin\Desktop\C# DERSLERİ\PasoParolaOyunu\PasoParolaOyunu\obj\Debug\PasoParolaOyunu.Form1.resources
+C:\Users\Engin\Desktop\C# DERSLERİ\PasoParolaOyunu\PasoParolaOyunu\obj\Debug\PasoParolaOyunu.Properties.Resources.resources
+C:\Users\Engin\Desktop\C# DERSLERİ\PasoParolaOyunu\PasoParolaOyunu\obj\Debug\PasoParolaOyunu.csproj.GenerateResource.cache
+C:\Users\Engin\Desktop\C# DERSLERİ\PasoParolaOyunu\PasoParolaOyunu\obj\Debug\PasoParolaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Engin\Desktop\C# DERSLERİ\PasoParolaOyunu\PasoParolaOyunu\obj\Debug\PasoParolaOyunu.exe
+C:\Users\Engin\Desktop\C# DERSLERİ\PasoParolaOyunu\PasoParolaOyunu\obj\Debug\PasoParolaOyunu.pdb
